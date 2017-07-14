@@ -20,3 +20,8 @@
 1. Make sure your lifestone tie (using wand) is set to 68.5N, 21.1W
 - Right outside Stonehold
 2. In the meta tab, set your meta state to Start.
+
+89-109 Levers.met
+1. Make sure your lifestone tie (using wand) is set to 62.8S, 51.5W
+- South of Wai Jhou
+2. In the meta tab, set your meta state to Start.
