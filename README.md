@@ -31,3 +31,4 @@
 
 - Certain lag spikes may cause the nav to bug. You will need to set the meta state to Start to relaunch.
 - If Levers is extremely populated may cause other nav issues.
+- You may die running from lifestones to portal if you have no defense and mob spawn on you.
