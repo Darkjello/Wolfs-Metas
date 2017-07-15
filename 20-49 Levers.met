@@ -11,7 +11,7 @@ n
 n
 n
 n
-27
+29
 i
 6
 i
@@ -56,6 +56,32 @@ i
 0
 s
 Start
+s
+Death > Re Entry
+i
+4
+i
+4
+s
+The power of Bael'Zharon flows through you
+ba
+187
+[None]
+1
+uTank2 NAV 1.2
+4
+1
+7
+26.2758459409078
+-23.6410691579183
+0.170995155970256
+0
+Gatekeeper of Bitterness
+37
+True
+26.2633124987284
+-23.6380500157674
+0.168885439634323
 s
 Death > Re Entry
 i
@@ -596,6 +622,16 @@ s
 You must infuse your soul with the
 s
 Turn In > Flag
+s
+Turn In
+i
+17
+i
+1
+i
+-1447821312
+s
+Start
 s
 Turn In
 i

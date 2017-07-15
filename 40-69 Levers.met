@@ -11,7 +11,7 @@ n
 n
 n
 n
-33
+35
 i
 6
 i
@@ -69,6 +69,32 @@ i
 0
 s
 Start
+s
+Death > Re Entry
+i
+4
+i
+4
+s
+The power of Bael'Zharon flows through you
+ba
+181
+[None]
+1
+uTank2 NAV 1.2
+4
+1
+7
+74.0019607543945
+-10.2997225761414
+0.166641267140706
+0
+Gatekeeper of Anger
+37
+True
+73.9738625208537
+-10.1039375305176
+0.13015104830265
 s
 Death > Re Entry
 i
@@ -178,6 +204,45 @@ i
 0
 s
 Start
+s
+DR > MoA
+i
+2
+i
+4
+TABLE
+2
+K
+V
+n
+n
+2
+i
+6
+i
+120
+i
+18
+i
+-613285825
+ba
+181
+[None]
+1
+uTank2 NAV 1.2
+4
+1
+7
+74.0423337936401
+-8.14647521972656
+0.157421588897705
+0
+Gatekeeper of Anger
+37
+True
+73.9738625208537
+-10.1039375305176
+0.13015104830265
 s
 DR > MoA
 i
