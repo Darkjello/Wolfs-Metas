@@ -11,7 +11,7 @@ n
 n
 n
 n
-27
+29
 i
 6
 i
@@ -562,9 +562,18 @@ SH > MoC
 s
 Start
 i
-6
+2
 i
 4
+TABLE
+2
+K
+V
+n
+n
+1
+i
+6
 i
 2
 ba
@@ -628,6 +637,26 @@ i
 0
 s
 Start
+s
+Turn In
+i
+20
+i
+1
+i
+0
+s
+Start
+s
+Turn In
+i
+4
+i
+1
+s
+You must infuse your soul with the
+s
+Turn In > Flag
 s
 Turn In
 i

@@ -11,7 +11,7 @@ n
 n
 n
 n
-27
+28
 i
 6
 i
@@ -575,6 +575,16 @@ i
 0
 s
 Start
+s
+Turn In
+i
+4
+i
+1
+s
+You must infuse your soul with the
+s
+Turn in > Flag
 s
 Turn In
 i
